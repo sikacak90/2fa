@@ -8,7 +8,7 @@ A *Google Authenticator* like offline webapp.
 
 Hosted at github pages: https://qoomon.github.io/otp-authenticator-webapp/
 
-* https://sikacak90.github.io/2fa
+* https://sikacak90.github.io/2fa/
 
 
 * branch: [gh-pages](https://github.com/qoomon/otp-authenticator-webapp/tree/gh-pages)
